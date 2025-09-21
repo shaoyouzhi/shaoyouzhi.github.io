@@ -14,7 +14,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-You-Zhi Shao is a student at the School of Journalism and Communication of Nanjing University. This was her first personal webpage and also her first encounter with code (or perhaps programming, she still can't quite tell the difference). At present, her greatest wish is to finish the homework of this course on time every week🥹.
+- You-Zhi Shao is a student at the School of Journalism and Communication of Nanjing University.
+- This was her first personal webpage and also her first encounter with code (or perhaps programming, she still can't quite tell the difference).
+- At present, her greatest wish is to finish the homework of this course on time every week🥹.
 
 <img src="https://user-images.githubusercontent.com/543384/178952701-6e595809-3059-41d4-9d88-356a9b339445.png" align = "middle" width = "800px">
 
